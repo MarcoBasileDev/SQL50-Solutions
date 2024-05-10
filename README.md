@@ -35,5 +35,6 @@ This repository is a collection of PostgreSQL solutions to various LeetCode prob
 - [1068. Product Sales Analysis I](https://github.com/MarcoBasileDev/SQL50-Solutions/blob/main/solutions/1068_product_sales_analysis_I.sql)
 - [1148. Article Views I](https://github.com/MarcoBasileDev/SQL50-Solutions/blob/main/solutions/1148_article_views_I.sql)
 - [1378. Replace Employee ID With The Unique Identifier](https://github.com/MarcoBasileDev/SQL50-Solutions/blob/main/solutions/1378_replace_employee_id_with_the_unique_identifier.sql)
+- [1581. Customer Who Visited but Did Not Make Any Transactions](https://github.com/MarcoBasileDev/SQL50-Solutions/blob/main/solutions/1581_customer_who_visited_but_did_not_make_any_transactions.sql)
 - [1683. Invalid Tweets](https://github.com/MarcoBasileDev/SQL50-Solutions/blob/main/solutions/1683_invalid_tweets.sql)
 - [1757. Recyclable and Low Fat Products](https://github.com/MarcoBasileDev/SQL50-Solutions/blob/main/solutions/1757_recyclable_and_low_fat_products.sql)
