@@ -30,5 +30,6 @@ This repository is a collection of PostgreSQL solutions to various LeetCode prob
 
 ## Solved Problems
 
-[584. Find Customer Referee](https://github.com/MarcoBasileDev/SQL50-Solutions/blob/main/solutions/584_find_customer_referee.sql)
-[1757. Recyclable and Low Fat Products](https://github.com/MarcoBasileDev/SQL50-Solutions/blob/main/solutions/1757_recyclable_and_low_fat_products.sql)
+- [584. Find Customer Referee](https://github.com/MarcoBasileDev/SQL50-Solutions/blob/main/solutions/584_find_customer_referee.sql)
+- [595. Big Countries](https://github.com/MarcoBasileDev/SQL50-Solutions/blob/main/solutions/595_big_countries.sql)
+- [1757. Recyclable and Low Fat Products](https://github.com/MarcoBasileDev/SQL50-Solutions/blob/main/solutions/1757_recyclable_and_low_fat_products.sql)
