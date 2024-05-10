@@ -33,5 +33,6 @@ This repository is a collection of PostgreSQL solutions to various LeetCode prob
 - [584. Find Customer Referee](https://github.com/MarcoBasileDev/SQL50-Solutions/blob/main/solutions/584_find_customer_referee.sql)
 - [595. Big Countries](https://github.com/MarcoBasileDev/SQL50-Solutions/blob/main/solutions/595_big_countries.sql)
 - [1148. Article Views I](https://github.com/MarcoBasileDev/SQL50-Solutions/blob/main/solutions/1148_article_views_I.sql)
+- [1378. Replace Employee ID With The Unique Identifier](https://github.com/MarcoBasileDev/SQL50-Solutions/blob/main/solutions/1378_replace_employee_id_with_the_unique_identifier.sql)
 - [1683. Invalid Tweets](https://github.com/MarcoBasileDev/SQL50-Solutions/blob/main/solutions/1683_invalid_tweets.sql)
 - [1757. Recyclable and Low Fat Products](https://github.com/MarcoBasileDev/SQL50-Solutions/blob/main/solutions/1757_recyclable_and_low_fat_products.sql)
